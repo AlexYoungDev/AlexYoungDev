@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<p><img align="center" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code1.gif" width="300" height="200" /></p>
+<p><img align="center" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code01.gif" width="300" height="200" /></p>
+<p><img align="center" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code03.gif" width="300" height="200" /></p>
 
 Here are some ideas to get you started:
 
@@ -11,7 +12,12 @@ Here are some ideas to get you started:
 - 🎮 My passions are videos games, mangas, football and travels.
 
 
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code3.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code4.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code5.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code04.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code05.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code06.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code07.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code08.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code10.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code11.gif" width="100" height="100" /></p>
 
