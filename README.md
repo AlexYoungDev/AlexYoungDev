@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p><img align="center" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code1.gif" width="300" height="200" /></p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m student at Ada Tech School in Paris.
@@ -9,5 +11,7 @@ Here are some ideas to get you started:
 - 🎮 My passions are videos games, mangas, football and travels.
 
 
-<p><img align="left" alt="gif" src="https://github.com/adatechschool/projet-collectif---front-fraises/blob/main/cat.gif" width="300" height="400" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code3.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code4.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code5.gif" width="100" height="100" /></p>
 
