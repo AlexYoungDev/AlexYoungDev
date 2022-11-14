@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code01.gif" width="300" height="200" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code03.gif" width="300" height="200" /></p>
 
 Here are some ideas to get you started:
 
