@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code01.gif" width="300" height="200" /></p>
-<p><img align="right" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code03.gif" width="300" height="200" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code03.gif" width="300" height="200" /></p>
 
 Here are some ideas to get you started:
 
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code07.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code08.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code10.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code11.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code12.gif" width="100" height="100" /></p>
 
