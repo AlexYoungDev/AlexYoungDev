@@ -44,19 +44,19 @@ Here are some ideas to get you started:
 
 ### Mes diffétents projets:
 
-1. [Pico-8](https://www.linkedin.com/in/alexandre-luu). (Lua)
+1. [Pico-8](https://github.com/Alexluu13/P1_Pico-8-alf). (Lua)
 
-2. [Dataviz & API](https://www.linkedin.com/in/alexandre-luu). (HTML, CSS et Js)
+2. [Dataviz & API](https://github.com/Alexluu13/P2_Poke-Astro-maj). (HTML, CSS et Js)
 
-3. [Extension Navigateur](https://www.linkedin.com/in/alexandre-luu). (HTML, CSS et Js)
+3. [Extension Navigateur](https://github.com/Alexluu13/P3_Extension-navigateur-ada). (HTML, CSS et Js)
 
-4. [Réseau Social PHP](https://www.linkedin.com/in/alexandre-luu). (HTML, CSS, Js, PHP et SQL)
+4. [Réseau Social PHP](https://github.com/Alexluu13/P4_ReseauSocial-PHP-mwaj). (HTML, CSS, Js, PHP et SQL)
 
-5. [Plateforme de vente de meubles](https://www.linkedin.com/in/alexandre-luu). (Reactjs, Nodejs et NoSQL)
+5. [Plateforme de vente de meubles FRONT](https://github.com/Alexluu13/P5_E-commerce-front-fraises) / [Plateforme de vente de meubles BACK](https://github.com/Alexluu13/P5_E-commerce-back-fraises). (Reactjs, Nodejs et NoSQL)
 
-6. [Plateforme de microblogging](https://www.linkedin.com/in/alexandre-luu). (Laravel et Docker)
+6. [Plateforme de microblogging](https://github.com/Alexluu13/P6_projet-Insta-almaauch). (Laravel et Docker)
 
-7. [Mobile switf](https://www.linkedin.com/in/alexandre-luu). (En cours.)
+7. [Mobile switf](). (En cours.)
 
 
 <p><img align="right" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code15.gif" width="230" height="230" /></p>
