@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code07.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code08.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code13.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code14.gif" width="110" height="100" /></p>
+<!-- <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code13.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code14.gif" width="110" height="100" /></p> -->
 
 ---
 ---
