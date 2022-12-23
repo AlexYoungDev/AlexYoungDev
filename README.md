@@ -34,32 +34,33 @@ Here are some ideas to get you started:
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code07.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code08.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100" /></p>
+<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100" /></p>
 
 
 
+---
+---
+---
+---
+---
+---
 
+### Mes diffétents projets:
 
+1. [Pico-8](https://www.linkedin.com/in/alexandre-luu). (Lua)
 
+2. [Dataviz & API](https://www.linkedin.com/in/alexandre-luu). (HTML, CSS et Js)
 
+3. [Extension Navigateur](https://www.linkedin.com/in/alexandre-luu). (HTML, CSS et Js)
 
+4. [Réseau Social PHP](https://www.linkedin.com/in/alexandre-luu). (HTML, CSS, Js, PHP et SQL)
 
-***
+5. [Plateforme de vente de meubles](https://www.linkedin.com/in/alexandre-luu). (Reactjs, Nodejs et NoSQL)
 
-Mes différents projets:
+6. [Plateforme de microblogging](https://www.linkedin.com/in/alexandre-luu). (Laravel et Docker)
 
-- [Pico-8](https://www.linkedin.com/in/alexandre-luu).
-
-- [Dataviz & API](https://www.linkedin.com/in/alexandre-luu).
-
-- [Extension Navigateur](https://www.linkedin.com/in/alexandre-luu).
-
-- [Réseau Social PHP](https://www.linkedin.com/in/alexandre-luu).
-
-- [Plateforme de vente de meubles](https://www.linkedin.com/in/alexandre-luu).
-
-- [Plateforme de microblogging](https://www.linkedin.com/in/alexandre-luu).
-
-- [Mobile](https://www.linkedin.com/in/alexandre-luu).
+7. [Mobile switf](https://www.linkedin.com/in/alexandre-luu). (En cours.)
 
 
 
