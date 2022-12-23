@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ### Mes diffétents projets:
 
-1. [Pico-8](https://github.com/Alexluu13/P1_Pico-8-alf). (Lua)
+1. [Pico-8](https://github.com/Alexluu13/P1_Pico-8-alfa). (Lua)
 
 2. [Dataviz & API](https://github.com/Alexluu13/P2_Poke-Astro-maj). (HTML, CSS et Js)
 
