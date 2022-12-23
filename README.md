@@ -1,8 +1,6 @@
+<h1 align="center">Bonjour! 👋</h1>
 
-
-### Bonjour 👋
-
-<p><img align="center" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code01.gif" width="300" height="200" /></p>
+<p align="center"><img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code01.gif" width="400" height="300" /></p>
 
 À propos de moi:
 
@@ -61,5 +59,5 @@ Here are some ideas to get you started:
 7. [Mobile switf](https://www.linkedin.com/in/alexandre-luu). (En cours.)
 
 
-<p><img align="right" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code03.gif" width="200" height="200" /></p>
+<p><img align="right" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code15.gif" width="230" height="230" /></p>
 
