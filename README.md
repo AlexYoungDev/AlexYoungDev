@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 6. [Plateforme de microblogging](https://github.com/Alexluu13/P6_projet-Insta-almaauch). (Laravel et Docker)
 
-7. [Mobile switf](). (En cours.)
+7. [Mobile switf](). (En cours...)
 
 
 <p><img align="right" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code15.gif" width="230" height="230" /></p>
