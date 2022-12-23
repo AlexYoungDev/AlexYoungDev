@@ -44,20 +44,26 @@ Here are some ideas to get you started:
 
 ### Mes diffétents projets:
 
-1. [Pico-8](https://github.com/Alexluu13/P1_Pico-8-alfa). (Lua)
+1. [Pico-8](https://github.com/Alexluu13/P1_Pico-8-alfa). **(Lua)**
+<p>Petit jeu vidéo de plateforme crée sur Pico-8 en Lua.</p>
 
-2. [Dataviz & API](https://github.com/Alexluu13/P2_Poke-Astro-maj). (HTML, CSS et Js)
+2. [Dataviz & API](https://github.com/Alexluu13/P2_Poke-Astro-maj). **(HTML, CSS et Js)**
+<p>Site web où l'on peut associer un Pokémon à son signe astrologique. Utilisation d'une API Pokémon et d'astrologie.</p>
 
-3. [Extension Navigateur](https://github.com/Alexluu13/P3_Extension-navigateur-ada). (HTML, CSS et Js)
+3. [Extension Navigateur](https://github.com/Alexluu13/P3_Extension-navigateur-ada). **(HTML, CSS et Js)**
+<p>Extension navigateur avec comme fonctionnalités: un dictionnaire, un bloc-notes et un marque-page. </p>
 
-4. [Réseau Social PHP](https://github.com/Alexluu13/P4_ReseauSocial-PHP-mwaj). (HTML, CSS, Js, PHP et SQL)
+4. [Réseau Social PHP](https://github.com/Alexluu13/P4_ReseauSocial-PHP-mwaj). **(HTML, CSS, Js, PHP et SQL)**
+<p>Un réseau social sur le thème du cinéma où les utilisateurs peuvent échanger et faire des recherches sur des films/séries. Possibilité de créer un compte et de se connecter. Utilisation de l'API Open Movie Database.</p>
 
-5. [Plateforme de vente de meubles FRONT](https://github.com/Alexluu13/P5_E-commerce-front-fraises) / [Plateforme de vente de meubles BACK](https://github.com/Alexluu13/P5_E-commerce-back-fraises). (Reactjs, Nodejs et NoSQL)
+5. [Plateforme de vente de meubles FRONT](https://github.com/Alexluu13/P5_E-commerce-front-fraises) / [Plateforme de vente de meubles BACK](https://github.com/Alexluu13/P5_E-commerce-back-fraises). **(Reactjs, Nodejs et NoSQL)**
+<p>Site e-commerce de vente de meuble. Avec un systèm d'inscription, de connexion, d'ajout de meuble à vendre, d'un compte admin... </p>
 
-6. [Plateforme de microblogging](https://github.com/Alexluu13/P6_projet-Insta-almaauch). (Laravel et Docker)
+6. [Plateforme de microblogging](https://github.com/Alexluu13/P6_projet-Insta-almaauch). **(Laravel, SQL et Docker)**
+<p>Blog sur les legos. Possibilité d'inscription, de connexion... (Ce projet doit être retraivailler.)</p>
 
-7. [Mobile switf](). (En cours...)
-
+7. [Mobile iOS FRONT]() / [Mobile iOS BACK](). **(Switf)**
+<p>(En cours...)</p>
 
 <p><img align="right" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code15.gif" width="230" height="230" /></p>
 
