@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <p>Site web où l'on peut associer un Pokémon à son signe astrologique. Utilisation d'une API Pokémon et d'astrologie.</p>
 
 3. [Extension Navigateur](https://github.com/Alexluu13/P3_Extension-navigateur-ada). **(HTML, CSS et Js)**
-<p>Extension navigateur avec comme fonctionnalités: un dictionnaire, un bloc-notes et un marque-page. </p>
+<p>Extension navigateur avec comme fonctionnalités: un dictionnaire (API), un bloc-notes et un marque-page. </p>
 
 4. [Réseau Social PHP](https://github.com/Alexluu13/P4_ReseauSocial-PHP-mwaj). **(HTML, CSS, Js, PHP et SQL)**
 <p>Un réseau social sur le thème du cinéma où les utilisateurs peuvent échanger et faire des recherches sur des films/séries. Possibilité de créer un compte et de se connecter. Utilisation de l'API Open Movie Database.</p>
