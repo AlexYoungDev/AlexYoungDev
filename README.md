@@ -35,9 +35,6 @@ Here are some ideas to get you started:
   <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100"/>
 </p>
 
-<!-- <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code13.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code14.gif" width="110" height="100" /></p> -->
-
 ### Mes diffétents projets:
 
 1. [Pico-8](https://github.com/Alexluu13/P1_Pico-8-alfa). **(Lua)**
