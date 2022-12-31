@@ -24,23 +24,19 @@ Here are some ideas to get you started:
 - 🎞️ My portfolio is [here](https://peppermint-cairnsmore-8b1.notion.site/Portofolio-e431d6a1917d47df87a459ff3fb16813).
 - 🎮 My passions are videos games, mangas, football and travels.
 
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code11.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code12.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code04.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code05.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code06.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code07.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code08.gif" width="100" height="100" /></p>
-<p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100" /></p>
+<p align="left">
+  <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code11.gif" width="100" height="100"/>
+  <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code12.gif" width="100" height="100"/>
+  <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code04.gif" width="100" height="100"/>
+  <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code05.gif" width="100" height="100"/>
+  <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code06.gif" width="100" height="100"/>
+  <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code07.gif" width="100" height="100"/>
+  <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code08.gif" width="100" height="100"/>
+  <img alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code09.gif" width="100" height="100"/>
+</p>
+
 <!-- <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code13.gif" width="100" height="100" /></p>
 <p><img align="left" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code14.gif" width="110" height="100" /></p> -->
-
----
----
----
----
----
----
 
 ### Mes diffétents projets:
 
