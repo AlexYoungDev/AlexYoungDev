@@ -5,7 +5,7 @@
 À propos de moi:
 
 - 🔭 Je suis étudiant à l'Ada Tech School à Paris.
-- 🌱 J'apprends et j'utilise pas mal de langages comme le HTML, CSS, Javascript, PHP, SQL, React, Node.js. D'autre langages arriveront par la suite.
+- 🌱 J'apprends et j'utilise pas mal de langages comme le HTML, CSS, Javascript, PHP, SQL, React, Node.js. Plusieurs langages arriveront par la suite.
 - 💻 Je suis à la recherche d'une alternance (Mars 2023 - Mars 2024, une année de contrat, quatre jours en entreprise, un jour à l'école).
 - 📫 Comment me trouver: vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/alexandre-luu).
 <!--  - 🎞️ Mon portofolio se trouve [ici](https://peppermint-cairnsmore-8b1.notion.site/Portofolio-e431d6a1917d47df87a459ff3fb16813). -->
