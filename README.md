@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <p>Site e-commerce de vente de meuble. Avec un systèm d'inscription, de connexion, d'ajout de meuble à vendre, d'un compte admin... </p>
 
 6. [Plateforme de microblogging](https://github.com/Alexluu13/P6_projet-Insta-almaauch). **(Laravel, SQL et Docker)**
-<p>Blog sur les legos. Possibilité d'inscription, de connexion... (Ce projet doit être retraivailler.)</p>
+<p>Blog sur les legos. Possibilité d'inscription, de connexion... (Ce projet à retraivailler.)</p>
 
 7. [Mobile iOS FRONT]() / [Mobile iOS BACK](). **(Dart avec Flutter)**
 <p>(En cours...)</p>
