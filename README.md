@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### Mes diffétents projets:
 
 1. [Pico-8](https://github.com/Alexluu13/P1_Pico-8-alfa). **(Lua)**
-<p>Petit jeu vidéo de plateforme crée sur Pico-8 en Lua.</p>
+<p>Jeu de plateforme crée sur Pico-8 en Lua.</p>
 
 2. [Dataviz & API](https://github.com/Alexluu13/P2_Poke-Astro-maj). **(HTML, CSS et Js)**
 <p>Site web où l'on peut associer un Pokémon à son signe astrologique. Utilisation d'une API Pokémon et d'astrologie.</p>
