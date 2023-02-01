@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <p>Blog sur les legos. Possibilité d'inscription, de connexion... </p>
 
 7. [Application mobile](https://github.com/Alexluu13/P7_Mobil-Flutter-ABMJ). **(Dart avec Flutter et Firebase)**
-<p>Projet mobile avec Flutter sur les meilleurs spots de surf du monde 🏄. Avec une utilisation de Firebase pour le Back end.</p>
+<p>Projet mobile sur les meilleurs spots de surf du monde 🏄.</p>
 
 <p><img align="right" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code15.gif" width="230" height="230" /></p>
 
