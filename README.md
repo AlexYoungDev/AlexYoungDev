@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 6. [Plateforme de microblogging](https://github.com/Alexluu13/P6_projet-Insta-almaauch). **(Laravel, SQL et Docker)**
 <p>Blog sur les legos. Possibilité d'inscription, de connexion... </p>
 
-7. [Mobile iOS FRONT]() / [Mobile iOS BACK](). **(Dart avec Flutter)**
+7. [Application mobile sur les meilleurs spots de surf du monde 🏄](). **(Dart avec Flutter)**
 <p>(En cours...)</p>
 
 <p><img align="right" alt="gif" src="https://github.com/Alexluu13/Alexluu13/blob/main/gif_code15.gif" width="230" height="230" /></p>
