@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <p>Jeu de plateforme crée sur Pico-8 en Lua.</p>
 
 2. [Dataviz & API](https://github.com/Alexluu13/P2_Poke-Astro-maj). **(HTML, CSS et Js)**
-<p>Site web dynamique. Quel Pokemon es-tu ? Utilisation d'une API Pokémon et d'astrologie.</p>
+<p>Site web dynamique. Quel Pokémon es-tu ? Utilisation d'une API Pokémon et d'astrologie.</p>
 
 3. [Extension Navigateur](https://github.com/Alexluu13/P3_Extension-navigateur-ada). **(HTML, CSS et Js)**
 <p>Extension navigateur multi-tâches avec comme fonctionnalités: un dictionnaire (API), un bloc-notes et un marque-page. </p>
