@@ -18,7 +18,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m student at [Ada tech School](https://adatechschool.fr/) in Paris.
-- 🌱 I’m currently learning programmings languages as HTML, CSS, Javascript, PHP, SQL, React, Node.js. I will learn more in the future...
+- 🌱 I’m currently learning programmings languages as HTML, CSS, Javascript, PHP, SQL, React, Node.js, Dart...
 - 💻 I'm looking for an apprenticeship (Mars 2023 - Mars 2024, 1 year contract, 4 days at the company, 1 day in school).
 - 📫 How to reach me: you can send me a message on [Linkedin](https://www.linkedin.com/in/alexandre-luu).
 - 🎞️ My portfolio is [here](https://peppermint-cairnsmore-8b1.notion.site/Portofolio-e431d6a1917d47df87a459ff3fb16813). 
