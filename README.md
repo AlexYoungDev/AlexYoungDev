@@ -8,7 +8,7 @@
 - 🌱 J'apprends et j'utilise pas mal de langages comme le HTML, CSS, Javascript, PHP, SQL, React, Node.js, Dart...
 - 💻 Je suis à la recherche d'une alternance (à partir de juin, une année de contrat, quatre jours en entreprise, un jour à l'école).
 - 📫 Comment me trouver : vous pouvez m'envoyer un message sur [Linkedin](https://www.linkedin.com/in/alexandre-luu).
-- 🎞️ Mon portofolio se trouve [ici](https://peppermint-cairnsmore-8b1.notion.site/Portofolio-e431d6a1917d47df87a459ff3fb16813). 
+- 🎞️ Mon portofolio se trouve [ici](https://portfolioalexandre.notion.site/Mon-Portfolio-e431d6a1917d47df87a459ff3fb16813). 
 - 🎮 J'aime les jeux vidéos, les mangas, le football et voyager.
 
 ***
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning programmings languages as HTML, CSS, Javascript, PHP, SQL, React, Node.js, Dart...
 - 💻 I'm looking for an apprenticeship (from June, 1 year contract, 4 days at the company, 1 day in school).
 - 📫 How to reach me : you can send me a message on [Linkedin](https://www.linkedin.com/in/alexandre-luu).
-- 🎞️ My portfolio is [here](https://peppermint-cairnsmore-8b1.notion.site/Portofolio-e431d6a1917d47df87a459ff3fb16813). 
+- 🎞️ My portfolio is [here](https://portfolioalexandre.notion.site/Mon-Portfolio-e431d6a1917d47df87a459ff3fb16813). 
 - 🎮 My passions are videos games, mangas, football and travels.
 
 <p align="left">
