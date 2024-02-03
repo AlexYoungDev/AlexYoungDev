@@ -4,7 +4,7 @@
 
 À propos de moi:
 
-- 🔭 Je suis étudiant à l'[Ada tech School](https://adatechschool.fr/) à Paris.
+- 🔭 Je suis étudiant à [Ada tech School](https://adatechschool.fr/) à Paris.
 - 🌱 J'apprends et j'utilise pas mal de langages comme le HTML, CSS, Javascript, PHP, SQL, React, Node.js, Dart... 
 - 🎞️ Mon portofolio se trouve [ici](https://portfolioalexandre.notion.site/Mon-Portfolio-e431d6a1917d47df87a459ff3fb16813). 
 - 🎮 J'aime les jeux vidéos, les mangas, le football et voyager.
